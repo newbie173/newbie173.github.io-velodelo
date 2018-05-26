@@ -1,6 +1,9 @@
-*{
+html,body{
 	margin: 0;
 	padding: 0;
+}
+html{
+	display: block;
 }
 #wrapper-div{
 	width: 100px;
